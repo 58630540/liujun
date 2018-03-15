@@ -1,0 +1,19 @@
+{
+    "name": "58630/liujun",
+    "description": "test liujun",
+    "license": "Apache-2.0",
+    "minimum-stability": "stable",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "liujun",
+            "email": "liujun@aiitec.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "test\\test\\": "src/"
+      }
+    }
+}

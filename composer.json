@@ -1,19 +1,17 @@
 {
     "name": "58630/liujun",
     "description": "test liujun",
-    "license": "Apache-2.0",
+    "license": "MIT",
     "minimum-stability": "stable",
     "version": "1.0.0",
+    "type": "project",
     "authors": [
         {
             "name": "liujun",
             "email": "liujun@aiitec.com"
         }
     ],
-    "require": {},
-    "autoload": {
-      "psr-4": {
-        "test\\test\\": "src/"
-      }
+    "require": {
+     "laravel/framework": "5.5.*"
     }
 }

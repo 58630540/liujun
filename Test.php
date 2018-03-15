@@ -11,5 +11,7 @@ namespace Test;
 
 class Test
 {
-
+  public funcion(){
+    echo 1212121;
+  }
 }

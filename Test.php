@@ -8,7 +8,6 @@
 
 namespace Test;
 
-
 class Test
 {
   public funcion(){
